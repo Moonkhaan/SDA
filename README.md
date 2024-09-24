@@ -29,3 +29,6 @@ The Protected Variation Principle helps developers design systems that are resil
 ## Real-Time Example:
 
 In a payment processing system, different payment gateways (like PayPal, Stripe) might be used. By implementing an abstract PaymentGateway interface, you can easily add or change payment providers without affecting other parts of the system. Each payment gateway implements the interface, so the rest of the system remains untouched when changes occur.
+
+## Lecture:
+https://github.com/user-attachments/assets/866df518-a911-46ab-a45c-5da99a6cf9c6
