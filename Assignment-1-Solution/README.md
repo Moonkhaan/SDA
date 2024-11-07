@@ -1,7 +1,3 @@
-Here’s the updated version of the `README.md` to include the video from the GitHub repository:
-
----
-
 # Online Book Store Application - SDA Assignment 1 Solution
 
 ## Overview
