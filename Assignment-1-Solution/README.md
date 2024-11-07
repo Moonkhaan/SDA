@@ -88,7 +88,7 @@ A video is provided in the GitHub repository to explain the functionality of the
 - Detailed walkthrough of the customer interactions (browsing, adding to cart, and checkout)
 - Explanation of the design patterns used and how they apply to the solution
 
-You can view the video in the [Video Explanation Section of the Repository](./labassignment.mp4).
+[Video Explanation](./labassignment.mp4)
 
 ## Future Improvements
 
